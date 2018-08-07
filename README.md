@@ -4,7 +4,7 @@ An ethereum blockchain project
 Follow the steps below to download, install, and run this project.
 
 ## Dependencies
-Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
+Install these prerequisites to follow along with the tutorial.
 
 - NPM: https://nodejs.org
 - Truffle: https://github.com/trufflesuite/truffle
@@ -19,9 +19,9 @@ $ cd asset_management_blockchain
 $ npm install
 ```
 ## Step 3. Start Ganache
-Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
+Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance.
 
-## Step 4. Compile & Deploy Election Smart Contract
+## Step 4. Compile & Deploy asset_management_blockchain Smart Contract
 `$ truffle compile` 
 This will compile the code and build couple of files under 'build' folder.
 `$ truffle migrate --reset` 
