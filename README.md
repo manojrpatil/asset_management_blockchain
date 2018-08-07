@@ -1,2 +1,2 @@
-# asset_management_blockchain
-A, ethereum blockchain project
+# Asset management using blockchain (Real Estate)
+An ethereum blockchain project
